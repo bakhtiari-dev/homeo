@@ -1,0 +1,7 @@
+local_settings.py
+static
+templates
+__pycache__
+*.pyc
+*.log
+.vscode
